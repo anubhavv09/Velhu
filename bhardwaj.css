@@ -1,0 +1,54 @@
+.navbar{
+	display: inline-flex;
+	background-color: #D6493C;
+	width: 100%;
+	height: 70px;
+}
+.here{
+	color: white;
+	text-transform: capitalize;
+	
+}
+#h1{
+	font-size: 23px;
+	padding-right: 1120px;
+	font-family: fantasy;
+	margin-bottom: 56px;
+}
+#h2{
+	font-size: 20px;
+	border: 0.5px solid black;
+	padding: 2px;
+	padding-right: 5px;
+	margin-right: 20px;
+	border-radius: 10px;
+	height: 26px;
+	font-family: fantasy;
+
+
+}
+#h3{
+	font-size: 20px;
+	border: 0.5px solid black;
+	padding: 2px;
+	padding-right: 5px;
+	margin-right: 20px;
+	border-radius: 2px;
+	height: 26px;
+	border-radius: 10px;
+	font-family: fantasy;
+	
+}
+#h4{
+	font-size: 20px;
+	font-size: 20px;
+	border: 0.5px solid black;
+	padding: 2px;
+	padding-right: 5px;
+	margin-right: 20px;
+	border-radius: 2px;
+	height: 26px;
+	border-radius: 10px;
+	font-family: fantasy;
+}
+

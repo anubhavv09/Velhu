@@ -1,0 +1,344 @@
+ .card {
+     width: 20rem;
+     margin: 8px;
+ }
+
+ .central {
+     background-color: #EFECF1;
+     width: 100%;
+     height: auto;
+
+ }
+
+ .align-center {
+     border: 1px solid #007bff;
+     width: 50px;
+     height: 50px;
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     top: -2px;
+
+
+     border-radius: 50%;
+     background-color: white;
+
+
+
+ }
+
+ .c1 {
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     color: #007bff;
+
+
+ }
+
+ .white {
+     background-color: #EFECF1;
+     width: 100%;
+     height: auto;
+
+
+ }
+
+ .hello {
+     background-color: white;
+ }
+
+ .black {
+     background-color: #291B33;
+     position: relative;
+     top: -20px;
+ }
+
+ h1.carousel-caption {
+     color: yellow;
+     position: relative;
+     left: -40px;
+     top: -10px;
+
+ }
+
+ .kk {
+     position: relative;
+     left: 320px;
+ }
+
+ .central {
+     position: relative;
+     top: -18px;
+ }
+
+ .carousel-caption {
+     width: 270px;
+     height: 100px;
+     bottom: 290px;
+
+ }
+
+ .icon {
+     position: relative;
+
+
+ }
+
+ .down {
+     position: relative;
+     top: 15px;
+     justify-content: center;
+
+ }
+
+ #p1 {
+     position: relative;
+     top: -10px;
+     font-size: 12px;
+     font-weight: lighter;
+ }
+
+ .fy {}
+
+ .swapl {
+     position: relative;
+     left: 30px;
+ }
+
+ .p3 {
+     position: relative;
+     top: -10px;
+     font-size: 12px;
+     font-weight: lighter;
+     left: 55px;
+
+ }
+
+ .byee {
+     position: relative;
+     left: 20px;
+ }
+
+ .coins {
+     font-size: 30px;
+     color: #007bff;
+ }
+
+ .sc {
+     font-size: 30px;
+     color: #007bff;
+     position: relative;
+     left: -60px;
+ }
+
+ .dt {
+     font-size: 48px;
+     padding-left: 20px;
+     padding-top: 25px;
+     color: #007bff;
+
+ }
+
+ .cy {
+     font-size: 48px;
+     margin-left: 132px;
+     position: relative;
+     top: 30px;
+
+     color: #007bff;
+ }
+
+ .nt {
+     height: 15px;
+     display: flex;
+     justify-content: space-between;
+ }
+
+ #navbartp {
+     margin-top: 5px;
+     font-weight: lighter;
+     letter-spacing: 2px;
+
+ }
+
+ .navbar-nav {}
+
+ #imgid {
+     height: 40px;
+     width: 40px;
+
+
+ }
+
+ #navbarNav {
+     margin-left: 350px;
+
+ }
+
+ .h1 {
+     color: white;
+
+ }
+
+ #ty {
+     color: yellow;
+     position: relative;
+     left: -40px;
+     top: -10px;
+     " 
+
+ }
+
+ #image3 {
+     height: 550px;
+     width: auto;
+
+ }
+
+ #image4 {
+     height: 550px;
+     width: auto;
+ }
+
+ #image2 {
+     height: 550px;
+     width: auto;
+ }
+
+ #mainp {
+     position: relative;
+     color: white;
+     top: -20px;
+     left: 10px;
+
+ }
+
+ #darkp {
+     position: relative;
+     color: white;
+     top: -20px;
+     left: 10px;
+ }
+
+ #darkp1 {
+     position: relative;
+     color: white;
+     top: -20px;
+     left: 10px;
+ }
+
+ .end {
+     font-weight: 100;
+ }
+
+ .ky {
+     position: relative;
+     top: 20px;
+
+ }
+
+ .btn {
+     position: relative;
+
+ }
+
+ #result {
+     width: 90px;
+     position: relative;
+     bottom: 50px;
+
+ }
+
+ .range {
+     padding: 10px;
+ }
+
+ .aug {
+     width: 90px;
+     bottom: 15px;
+
+ }
+
+ .sep {
+     position: relative;
+     top: -30px;
+     left: -60px;
+ }
+
+ .nov {
+     font-size: 40px;
+ }
+
+ .ny {
+     position: relative;
+     left: -50px;
+
+ }
+
+ #l1 {
+     position: relative;
+     left: 20px;
+ }
+
+ .ikon1 {
+     left: 50px;
+     top: 10px;
+     color: #007bff;
+     font-size: 36px;
+
+
+
+ }
+
+ .bottle {
+     padding-left: 60px;
+
+ }
+
+ .have {
+     position: relative;
+     left: 55px;
+ }
+
+ .swap1 {
+
+     position: relative;
+     margin-top: -10px;
+     padding-left: 95px;
+
+ }
+
+ .swap2 {
+
+     position: relative;
+     margin-top: -10px;
+     padding-left: 90px;
+
+
+
+ }
+
+ #btnes {
+     position: relative;
+     bottom: 40px;
+ }
+
+ .ab {
+     position: relative;
+     top: -20px;
+     left: 5px;
+ }
+
+ .context {
+     position: relative;
+     top: 10px;
+     left: -58px;
+ }
+
+ .lb {
+     position: relative;
+     bottom: 6px;
+ }

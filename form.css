@@ -1,0 +1,54 @@
+table ,tr, th{
+
+margin: 120px;
+
+
+
+
+
+
+
+
+
+}
+tr,th{
+
+
+	padding-right: 40px;
+padding-left: 40px;
+
+
+
+
+
+
+
+
+
+}
+th{
+
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: lightskyblue;
+}
+td{
+
+
+
+	
+	padding-right: 150px;
+	background-color: grey;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+  td:hover{
+        background-color: greenyellow;
+
+
+
+
+
+    }

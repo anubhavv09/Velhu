@@ -1,0 +1,10 @@
+.container-fluid {
+	background-color: lightskyblue;
+}
+.container{
+	background-color: khaki;
+}
+img{
+	height:300px;
+	width: 400px;
+}

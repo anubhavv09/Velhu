@@ -1,0 +1,29 @@
+.fitem{
+	border: 2px solid black;
+	background-color: darkkhaki;
+	padding: 10px;
+	margin: 10px;
+	height: 133px;
+	width: 133px;
+
+}
+.fcontainer{
+	display: inline-flex;
+	border: 1px solid black;
+	height: 45vh;
+	width: 100%;
+	/*flex-direction: row-reverse; */
+	/*flex-direction: column-reverse; */
+	/*flex-direction: row;*/
+	align-items: center;
+	flex-wrap: wrap;
+
+}
+#car2{
+	position:relative;
+	top: 20px;
+	bottom: 30px;
+}
+.navbarr{
+	display: inline-flex;
+}
